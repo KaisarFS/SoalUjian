@@ -131,7 +131,7 @@
             android:layout_height="wrap_content"
             android:text="Description : "
             android:textColor="@color/colorWhite"
-            android:background="@color/colorPrimaryDark"
+            android:background="@color/colorAccent"
             android:padding="15dp"
             tools:text="@tools:sample/lorem/random"/>
     </androidx.cardview.widget.CardView>
